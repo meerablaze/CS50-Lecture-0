@@ -7,8 +7,7 @@ body {
 }
 </style>
 </head>
-</html>
-
+<body>
 
 <html>
 <head>
@@ -21,8 +20,12 @@ p {
 </head>
 <body>
 
-<p>This is a map of Eurostar destinations</p>
-<p id="para1">Pick your adventure now!</p>
+<p>This is a map of EuroStar Destinations.</p>
+<p id="para1">Pick your adventure!</p>
+
+
+</body>
+</html>
 
 
 </body>
