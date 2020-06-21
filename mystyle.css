@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" type="text/css" href="mystyle.css2">
-</head>
-<body>
+body {
+  background-color: lightblue;
+}
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
