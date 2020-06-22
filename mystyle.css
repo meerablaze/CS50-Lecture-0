@@ -1,29 +1,35 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
 body {
-  background-image: url("https://flockler.com/thumbs/sites/891/routes-370692f8-d0a0-4f81-98b9-4f497e1b88de_s1800x0_q80_noupscale.png");
+  background-color: lightblue;
 }
-</style>
-</head>
-<body>
 
-
-<html>
-<head>
-<style>
-p {
-  text-align: center;
+h1 {
   color: navy;
-} 
-</style>
-</head>
-<body>
+  margin-left: 20px;
+}
 
-<p>This is a map of Eurostar destinations</p>
-<p id="para1">Pick your adventure now!</p>
+nav {
+  ul {
+    margin: 0;
+    list-style: none;
+  }
 
+  li { display: inline-block; }
 
-</body>
-</html>
+  a {
+    display: block;
+    padding: 6px 12px;
+    text-decoration: none;
+  }
+}
+SCSS SYNTAX
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #333;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+%message-shared {
+  border: 1px solid #ccc;
+   color: #333;
+}

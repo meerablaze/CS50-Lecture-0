@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+<!--Get your own code at fontawesome.com-->
+</head>
+<body>
+
+
+<i class="fas fa-cloud" style="font-size:60px;color:lightblue;"></i>
+<p>The purpose of this site is to help you book a holiday with EuroStar. Our 3 main destinations are: </p>
+<html lang="en">
+<head>
